@@ -1,0 +1,10 @@
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec01 SQL Demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec01 SQL Demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec01 SQL Demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec01 SQL Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec01 SQL Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec01 SQL Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec01 SQL Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec01 SQL Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec01 SQL Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec01 SQL Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
