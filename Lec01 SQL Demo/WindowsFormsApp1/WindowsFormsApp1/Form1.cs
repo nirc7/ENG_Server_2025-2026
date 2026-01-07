@@ -14,9 +14,14 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
+        string conStr = @"Data Source=LAB-G700;Initial Catalog=DBUsers;Persist Security Info=True;User ID=Sa;Password=RuppinTech!;";
+        SqlConnection con;
+
         public Form1()
         {
             InitializeComponent();
+
+            con = new SqlConnection(conStr);
         }
 
         private void btnInsert_Click(object sender, EventArgs e)
@@ -33,8 +38,7 @@ namespace WindowsFormsApp1
 
         private void NonQ(string command)
         {
-            string conStr = @"Data Source=LAB-G700;Initial Catalog=DBUsers;Persist Security Info=True;User ID=Sa;Password=RuppinTech!;";
-            SqlConnection con = new SqlConnection(conStr);
+           
 
             SqlCommand comm = new SqlCommand(command, con);
 
@@ -93,8 +97,6 @@ namespace WindowsFormsApp1
         private void RefreshLabel()
         {
             lblRes.Text = "";
-            string conStr = @"Data Source=LAB-G700;Initial Catalog=DBUsers;Persist Security Info=True;User ID=Sa;Password=RuppinTech!;";
-            SqlConnection con = new SqlConnection(conStr);
 
             SqlCommand comm = new SqlCommand(
                 " SELECT * " +
