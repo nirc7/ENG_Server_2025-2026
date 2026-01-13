@@ -26,27 +26,20 @@ namespace WindowsFormsApp1
 
         private void btnInsert_Click(object sender, EventArgs e)
         {
-            NonQ($"INSERT INTO TBUsers(Name, Family) VALUES('{txtName.Text}','{txtFamily.Text}')");
+            int id = BLLServices.InsertUser(txtName.Text, txtFamily.Text);
+            if (id == -1)
+            {
+                MessageBox.Show(":(");
+            }
+            else
+            {
+                MessageBox.Show("user id = "  + id);
+            }
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            NonQ($" UPDATE TBUsers " +
-                $" SET Name='{txtName.Text}' , Family='{txtFamily.Text}' " +
-                $" WHERE Id={txtId.Text}");
-        }
-
-        private void NonQ(string command)
-        {
-           
-
-            SqlCommand comm = new SqlCommand(command, con);
-
-            //comm.Connection.Open();
-            con.Open();
-            int res = comm.ExecuteNonQuery();
-            con.Close();
-
+            int res = BLLServices.UpdateUser(int.Parse( txtId.Text), txtName.Text, txtFamily.Text);
             if (res == 1)
             {
                 MessageBox.Show(":)");
@@ -55,12 +48,21 @@ namespace WindowsFormsApp1
             {
                 MessageBox.Show(":(");
             }
-
-            RefreshLabel();
         }
+
+        
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
+            int res = BLLServices.DeleteUser(int.Parse(txtId.Text));
+            if (res == 1)
+            {
+                MessageBox.Show(":)");
+            }
+            else
+            {
+                MessageBox.Show(":(");
+            }
             //try
             //{
             //    //good
@@ -76,7 +78,7 @@ namespace WindowsFormsApp1
             //catch (Exception e)
             //{
             //    //code excp
-                
+
             //}
             //finally
             //{
@@ -84,9 +86,7 @@ namespace WindowsFormsApp1
             //}
 
             //code....close db
-            NonQ(" DELETE " +
-             " FROM TBUsers " +
-             " WHERE Id=" + txtId.Text);
+            
         }
 
         private void btnSelect_Click(object sender, EventArgs e)
