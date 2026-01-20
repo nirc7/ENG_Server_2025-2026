@@ -1,0 +1,2 @@
+C:\WindowsFormsApp1\BLLProj\obj\Debug\BLLProj.csproj.AssemblyReference.cache
+C:\WindowsFormsApp1\BLLProj\obj\Debug\BLLProj.csproj.CoreCompileInputs.cache
