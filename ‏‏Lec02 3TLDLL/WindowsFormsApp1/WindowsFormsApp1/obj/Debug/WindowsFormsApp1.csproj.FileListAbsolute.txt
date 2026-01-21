@@ -18,3 +18,18 @@ C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateR
 C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BLLProj.dll
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DALProj.dll
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BLLProj.pdb
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DALProj.pdb
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date

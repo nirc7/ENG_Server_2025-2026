@@ -14,9 +14,11 @@ namespace DALProj
         static string conStr = @"Data Source=LAB-G700;Initial Catalog=DBUsers;Persist Security Info=True;User ID=Sa;Password=RuppinTech!;";
         static SqlConnection con;
 
+         
+
         static DALServices()
         {
-            con = new SqlConnection(conStr);
+            con = new SqlConnection(    conStr);
         }
 
         public static User InsertUser(string name, string family)
@@ -37,7 +39,7 @@ namespace DALProj
             //user.id = -7;
         }
 
-        internal static int DeleteUser(int id)
+        public static int DeleteUser(int id)
         {
             return NonQ(
                 " DELETE " +
@@ -45,14 +47,14 @@ namespace DALProj
                 " WHERE Id=" + id);
         }
 
-        internal static int UpdateUser(int id, string name, string family)
+        public static int UpdateUser(int id, string name, string family)
         {
             return NonQ($" UPDATE TBUsers " +
                  $" SET Name='{name}' , Family='{family}' " +
                  $" WHERE Id={id}");
         }
 
-        internal static int UpdateUser(User u)
+        public static int UpdateUser(User u)
         {
             return NonQ($" UPDATE TBUsers " +
                  $" SET Name='{u.Name}' , Family='{u.Family}' " +

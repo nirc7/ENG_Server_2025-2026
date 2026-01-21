@@ -1,2 +1,11 @@
 C:\WindowsFormsApp1\BLLProj\obj\Debug\BLLProj.csproj.AssemblyReference.cache
 C:\WindowsFormsApp1\BLLProj\obj\Debug\BLLProj.csproj.CoreCompileInputs.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\BLLProj\obj\Debug\BLLProj.csproj.AssemblyReference.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\BLLProj\obj\Debug\BLLProj.csproj.CoreCompileInputs.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\BLLProj\bin\Debug\BLLProj.dll
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\BLLProj\bin\Debug\BLLProj.pdb
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\BLLProj\bin\Debug\DALProj.dll
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\BLLProj\bin\Debug\DALProj.pdb
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\BLLProj\obj\Debug\BLLProj.csproj.Up2Date
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\BLLProj\obj\Debug\BLLProj.dll
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\‏‏Lec02 3TLDLL\WindowsFormsApp1\BLLProj\obj\Debug\BLLProj.pdb

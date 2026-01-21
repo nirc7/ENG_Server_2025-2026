@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\WindowsFormsApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{972D5C19-B3EC-47A2-B8D9-2F94248F6D91}|DALProj\\DALProj.csproj|c:\\windowsformsapp1\\dalproj\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{972D5C19-B3EC-47A2-B8D9-2F94248F6D91}|DALProj\\DALProj.csproj|C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\dalproj\\dalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972D5C19-B3EC-47A2-B8D9-2F94248F6D91}|DALProj\\DALProj.csproj|solutionrelative:dalproj\\dalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011EB937-2EF7-4FE5-8C82-CCEF82446AD4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\lab-g700\\desktop\\eng_server_2025-2026\\\u200F\u200Flec02 3tldll\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011EB937-2EF7-4FE5-8C82-CCEF82446AD4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011EB937-2EF7-4FE5-8C82-CCEF82446AD4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\lab-g700\\desktop\\eng_server_2025-2026\\\u200F\u200Flec02 3tldll\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{011EB937-2EF7-4FE5-8C82-CCEF82446AD4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C286D4-917B-4158-9483-535DE3928FB6}|BLLProj\\BLLProj.csproj|c:\\users\\lab-g700\\desktop\\eng_server_2025-2026\\\u200F\u200Flec02 3tldll\\windowsformsapp1\\bllproj\\bllservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C286D4-917B-4158-9483-535DE3928FB6}|BLLProj\\BLLProj.csproj|solutionrelative:bllproj\\bllservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972D5C19-B3EC-47A2-B8D9-2F94248F6D91}|DALProj\\DALProj.csproj|c:\\users\\lab-g700\\desktop\\eng_server_2025-2026\\\u200F\u200Flec02 3tldll\\windowsformsapp1\\dalproj\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{972D5C19-B3EC-47A2-B8D9-2F94248F6D91}|DALProj\\DALProj.csproj|solutionrelative:dalproj\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{972D5C19-B3EC-47A2-B8D9-2F94248F6D91}|DALProj\\DALProj.csproj|c:\\windowsformsapp1\\dalproj\\dalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{972D5C19-B3EC-47A2-B8D9-2F94248F6D91}|DALProj\\DALProj.csproj|solutionrelative:dalproj\\dalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{011EB937-2EF7-4FE5-8C82-CCEF82446AD4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\lab-g700\\desktop\\eng_server_2025-2026\\\u200F\u200Flec02 3tldll\\windowsformsapp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011EB937-2EF7-4FE5-8C82-CCEF82446AD4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLLServices.cs",
+              "DocumentMoniker": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\BLLProj\\BLLServices.cs",
+              "RelativeDocumentMoniker": "BLLProj\\BLLServices.cs",
+              "ToolTip": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\BLLProj\\BLLServices.cs",
+              "RelativeToolTip": "BLLProj\\BLLServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:08:16.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:50:20.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:50:19.202Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:50:01.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DALServices.cs",
-              "DocumentMoniker": "C:\\WindowsFormsApp1\\DALProj\\DALServices.cs",
+              "DocumentMoniker": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\DALProj\\DALServices.cs",
               "RelativeDocumentMoniker": "DALProj\\DALServices.cs",
-              "ToolTip": "C:\\WindowsFormsApp1\\DALProj\\DALServices.cs",
+              "ToolTip": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\DALProj\\DALServices.cs",
               "RelativeToolTip": "DALProj\\DALServices.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAUwE4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T10:56:14.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\WindowsFormsApp1\\DALProj\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\DALProj\\User.cs",
               "RelativeDocumentMoniker": "DALProj\\User.cs",
-              "ToolTip": "C:\\WindowsFormsApp1\\DALProj\\User.cs",
+              "ToolTip": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\DALProj\\User.cs",
               "RelativeToolTip": "DALProj\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T10:55:39.581Z",
               "EditorCaption": ""

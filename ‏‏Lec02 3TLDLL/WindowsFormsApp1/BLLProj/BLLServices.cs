@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DALProj;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -34,7 +35,7 @@ namespace BLLProj
             return res;
         }
 
-        internal static int DeleteUser(int id)
+        public static int DeleteUser(int id)
         {
             //is permitted to do update?
             int res = DALServices.DeleteUser(id);

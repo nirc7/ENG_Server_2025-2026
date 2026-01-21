@@ -44,5 +44,11 @@
     <Compile Include="BLLServices.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DALProj\DALProj.csproj">
+      <Project>{972d5c19-b3ec-47a2-b8d9-2f94248f6d91}</Project>
+      <Name>DALProj</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
