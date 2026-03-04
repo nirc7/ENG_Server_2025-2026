@@ -18,7 +18,7 @@ namespace DALProj
 
         static DALServices()
         {
-            con = new SqlConnection(    conStr);
+            con = new SqlConnection(conStr);
         }
 
         public static User InsertUser(string name, string family)
@@ -113,6 +113,7 @@ namespace DALProj
             {
                 con.Close();
             }
+            //code....
         }
     }
 }

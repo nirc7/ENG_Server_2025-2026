@@ -62,7 +62,7 @@ namespace DALProj
                     name = value;
                 }
                 else
-                    throw new ArgumentException("nu nu nu go 2 school! id ERR!");
+                    throw new ArgumentException("nu nu nu go 2 school! Name ERR!");
             }
 
         }
