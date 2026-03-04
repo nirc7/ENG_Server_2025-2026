@@ -46,7 +46,8 @@
               "RelativeToolTip": "BLLProj\\BLLServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T07:40:29.297Z"
+              "WhenOpened": "2026-03-04T07:40:29.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -83,7 +84,8 @@
               "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T07:40:29.356Z"
+              "WhenOpened": "2026-03-04T07:40:29.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -93,7 +95,7 @@
               "RelativeDocumentMoniker": "DALProj\\DALServices.cs",
               "ToolTip": "C:\\Users\\napo5_nt\\Desktop\\ENG_Server_2025-2026\\\u200F\u200FLec02 3TLDLL\\WindowsFormsApp1\\DALProj\\DALServices.cs",
               "RelativeToolTip": "DALProj\\DALServices.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAUwDUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwEUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T07:40:29.482Z",
               "EditorCaption": ""
@@ -108,7 +110,8 @@
               "RelativeToolTip": "DALProj\\User.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAowDcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T07:40:29.647Z"
+              "WhenOpened": "2026-03-04T07:40:29.647Z",
+              "EditorCaption": ""
             }
           ]
         }
