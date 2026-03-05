@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{6760CC3A-568F-404B-8204-B47D04DB5350}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6760CC3A-568F-404B-8204-B47D04DB5350}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\napo5_nt\\desktop\\eng_server_2025-2026\\lec03 ds gv\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6760CC3A-568F-404B-8204-B47D04DB5350}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\napo5_nt\\Desktop\\ENG_Server_2025-2026\\Lec03 DS GV\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6760CC3A-568F-404B-8204-B47D04DB5350}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
               "ToolTip": "C:\\Users\\napo5_nt\\Desktop\\ENG_Server_2025-2026\\Lec03 DS GV\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAIAzwDoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T09:18:26.609Z",
               "EditorCaption": ""
@@ -42,12 +42,7 @@
               "ToolTip": "C:\\Users\\napo5_nt\\Desktop\\ENG_Server_2025-2026\\Lec03 DS GV\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:17:09.452Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-03-04T09:17:09.452Z"
             }
           ]
         }
