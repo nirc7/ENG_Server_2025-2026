@@ -40,6 +40,9 @@
             this.label3 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.btnInsertWP = new System.Windows.Forms.Button();
+            this.btnSelectWSP = new System.Windows.Forms.Button();
+            this.btnSelectTableWSP = new System.Windows.Forms.Button();
+            this.btnFillDSWAdptr = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -91,7 +94,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
-            this.label1.Location = new System.Drawing.Point(208, 53);
+            this.label1.Location = new System.Drawing.Point(176, 34);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(23, 20);
             this.label1.TabIndex = 4;
@@ -100,7 +103,7 @@
             // txtId
             // 
             this.txtId.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
-            this.txtId.Location = new System.Drawing.Point(266, 53);
+            this.txtId.Location = new System.Drawing.Point(234, 34);
             this.txtId.Name = "txtId";
             this.txtId.Size = new System.Drawing.Size(100, 26);
             this.txtId.TabIndex = 5;
@@ -108,7 +111,7 @@
             // txtFamily
             // 
             this.txtFamily.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
-            this.txtFamily.Location = new System.Drawing.Point(266, 129);
+            this.txtFamily.Location = new System.Drawing.Point(234, 110);
             this.txtFamily.Name = "txtFamily";
             this.txtFamily.Size = new System.Drawing.Size(100, 26);
             this.txtFamily.TabIndex = 7;
@@ -117,7 +120,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
-            this.label2.Location = new System.Drawing.Point(208, 129);
+            this.label2.Location = new System.Drawing.Point(176, 110);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(54, 20);
             this.label2.TabIndex = 6;
@@ -126,7 +129,7 @@
             // txtName
             // 
             this.txtName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
-            this.txtName.Location = new System.Drawing.Point(266, 95);
+            this.txtName.Location = new System.Drawing.Point(234, 73);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(100, 26);
             this.txtName.TabIndex = 9;
@@ -135,7 +138,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
-            this.label3.Location = new System.Drawing.Point(208, 95);
+            this.label3.Location = new System.Drawing.Point(176, 73);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(51, 20);
             this.label3.TabIndex = 8;
@@ -143,11 +146,13 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(266, 184);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(336, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(359, 150);
             this.dataGridView1.TabIndex = 10;
+            this.dataGridView1.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellEndEdit);
             // 
             // btnInsertWP
             // 
@@ -160,11 +165,49 @@
             this.btnInsertWP.UseVisualStyleBackColor = true;
             this.btnInsertWP.Click += new System.EventHandler(this.btnInsertWP_Click);
             // 
+            // btnSelectWSP
+            // 
+            this.btnSelectWSP.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
+            this.btnSelectWSP.Location = new System.Drawing.Point(453, 34);
+            this.btnSelectWSP.Name = "btnSelectWSP";
+            this.btnSelectWSP.Size = new System.Drawing.Size(172, 40);
+            this.btnSelectWSP.TabIndex = 12;
+            this.btnSelectWSP.TabStop = false;
+            this.btnSelectWSP.Text = "Select W SP";
+            this.btnSelectWSP.UseVisualStyleBackColor = true;
+            this.btnSelectWSP.Click += new System.EventHandler(this.btnSelectWSP_Click);
+            // 
+            // btnSelectTableWSP
+            // 
+            this.btnSelectTableWSP.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
+            this.btnSelectTableWSP.Location = new System.Drawing.Point(453, 96);
+            this.btnSelectTableWSP.Name = "btnSelectTableWSP";
+            this.btnSelectTableWSP.Size = new System.Drawing.Size(172, 40);
+            this.btnSelectTableWSP.TabIndex = 13;
+            this.btnSelectTableWSP.TabStop = false;
+            this.btnSelectTableWSP.Text = "Select Table W SP";
+            this.btnSelectTableWSP.UseVisualStyleBackColor = true;
+            this.btnSelectTableWSP.Click += new System.EventHandler(this.btnSelectTableWSP_Click);
+            // 
+            // btnFillDSWAdptr
+            // 
+            this.btnFillDSWAdptr.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(177)));
+            this.btnFillDSWAdptr.Location = new System.Drawing.Point(453, 142);
+            this.btnFillDSWAdptr.Name = "btnFillDSWAdptr";
+            this.btnFillDSWAdptr.Size = new System.Drawing.Size(172, 36);
+            this.btnFillDSWAdptr.TabIndex = 14;
+            this.btnFillDSWAdptr.Text = "FillDSWAdptr";
+            this.btnFillDSWAdptr.UseVisualStyleBackColor = true;
+            this.btnFillDSWAdptr.Click += new System.EventHandler(this.btnFillDSWAdptr_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(657, 378);
+            this.Controls.Add(this.btnFillDSWAdptr);
+            this.Controls.Add(this.btnSelectTableWSP);
+            this.Controls.Add(this.btnSelectWSP);
             this.Controls.Add(this.btnInsertWP);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtName);
@@ -200,6 +243,9 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button btnInsertWP;
+        private System.Windows.Forms.Button btnSelectWSP;
+        private System.Windows.Forms.Button btnSelectTableWSP;
+        private System.Windows.Forms.Button btnFillDSWAdptr;
     }
 }
 
