@@ -21,5 +21,25 @@ namespace WebApplication1.Controllers
             Student s1 = DBStudentsMock.students.FirstOrDefault(stu => stu.Id == id);
             return s1;
         }
+
+        [HttpPost]
+        public int Post([FromBody] Student stu2Insert)
+        {
+            int newId = DBStudentsMock.students.Max(stu => stu.Id) + 1;
+            stu2Insert.Id = newId;
+            DBStudentsMock.students.Add(stu2Insert);
+            return newId;
+        }
+
+        [HttpPut("{id}")]
+        public string Put(int id, [FromBody] Student stu2Update )
+        {
+            Student stu2Find = DBStudentsMock.students.FirstOrDefault(stu=> stu.Id == id);
+            //stu2Find = stu2Update; //?
+
+            stu2Find.Name = stu2Update.Name;
+            stu2Find.Grade = stu2Update.Grade;
+            return "done:)";
+        }
     }
 }
