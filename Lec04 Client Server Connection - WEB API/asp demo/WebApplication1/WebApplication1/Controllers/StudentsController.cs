@@ -35,11 +35,19 @@ namespace WebApplication1.Controllers
         public string Put(int id, [FromBody] Student stu2Update )
         {
             Student stu2Find = DBStudentsMock.students.FirstOrDefault(stu=> stu.Id == id);
-            //stu2Find = stu2Update; //?
-
             stu2Find.Name = stu2Update.Name;
             stu2Find.Grade = stu2Update.Grade;
             return "done:)";
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id) 
+        {
+            Student stu2Del = DBStudentsMock.students.SingleOrDefault(stu=> stu.Id == id);
+            DBStudentsMock.students.Remove(stu2Del);
+            var v = new {Result = "deleted successfully!" };
+            var r = new JsonResult(v);
+            return r;
         }
     }
 }
