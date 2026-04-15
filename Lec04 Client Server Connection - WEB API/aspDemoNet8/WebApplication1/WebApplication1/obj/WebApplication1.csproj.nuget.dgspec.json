@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\asp demo\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\asp demo\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\asp demo\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\asp demo\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Lab-G700\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\asp demo\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,25 +50,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[10.0.5, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[10.1.5, )"
-            },
-            "Swashbuckle.AspNetCore.Swagger": {
-              "target": "Package",
-              "version": "[10.1.5, )"
-            },
-            "Swashbuckle.AspNetCore.SwaggerGen": {
-              "target": "Package",
-              "version": "[10.1.5, )"
-            },
-            "Swashbuckle.AspNetCore.SwaggerUI": {
-              "target": "Package",
-              "version": "[10.1.5, )"
+              "version": "[6.6.2, )"
             }
           },
           "imports": [

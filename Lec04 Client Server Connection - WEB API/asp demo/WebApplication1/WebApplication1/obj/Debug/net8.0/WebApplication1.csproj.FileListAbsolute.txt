@@ -1,0 +1,8 @@
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\asp demo\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\asp demo\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\asp demo\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\asp demo\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\asp demo\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\asp demo\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\asp demo\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lab-G700\Desktop\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\asp demo\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
