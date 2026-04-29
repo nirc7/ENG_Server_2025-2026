@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentsRWController.cs",
               "ToolTip": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\Controllers\\StudentsRWController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\StudentsRWController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAywMcAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T08:58:43.988Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "WebApplication1\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T07:08:53.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T07:08:53.803Z"
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Models\\DBStudentsMock.cs",
               "ToolTip": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\Models\\DBStudentsMock.cs",
               "RelativeToolTip": "WebApplication1\\Models\\DBStudentsMock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T07:08:49.069Z",
               "EditorCaption": ""
