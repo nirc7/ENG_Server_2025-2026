@@ -14,6 +14,8 @@ namespace WebApplication1
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddCors(p=> p.AddPolicy("mypolicy", build => build.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()   ));
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -24,6 +26,8 @@ namespace WebApplication1
             }
 
             app.UseHttpsRedirection();
+
+            app.UseCors("mypolicy");
 
             app.UseAuthorization();
 

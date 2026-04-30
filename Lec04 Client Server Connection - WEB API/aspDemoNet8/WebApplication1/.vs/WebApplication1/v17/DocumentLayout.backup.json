@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65BE8AA7-94D7-4AB8-A8C6-63A8C94CB26A}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab-g700\\desktop\\eng_server_2025-2026\\lec04 client server connection - web api\\aspdemonet8\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BE8AA7-94D7-4AB8-A8C6-63A8C94CB26A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65BE8AA7-94D7-4AB8-A8C6-63A8C94CB26A}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab-g700\\desktop\\eng_server_2025-2026\\lec04 client server connection - web api\\aspdemonet8\\webapplication1\\webapplication1\\controllers\\studentsrwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65BE8AA7-94D7-4AB8-A8C6-63A8C94CB26A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentsrwcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T08:41:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StudentsRWController.cs",
               "DocumentMoniker": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\Controllers\\StudentsRWController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentsRWController.cs",
               "ToolTip": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\Controllers\\StudentsRWController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\StudentsRWController.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAywMgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T08:58:43.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Student.cs",
@@ -47,11 +64,12 @@
               "RelativeToolTip": "WebApplication1\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T07:08:53.803Z"
+              "WhenOpened": "2026-04-15T07:08:53.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DBStudentsMock.cs",
               "DocumentMoniker": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\Models\\DBStudentsMock.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\DBStudentsMock.cs",
