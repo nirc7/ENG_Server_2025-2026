@@ -1,4 +1,6 @@
 
+using System;
+
 namespace WebApplication1
 {
     public class Program
@@ -15,6 +17,8 @@ namespace WebApplication1
             builder.Services.AddSwaggerGen();
 
             builder.Services.AddCors(p=> p.AddPolicy("mypolicy", build => build.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()   ));
+
+            
 
             var app = builder.Build();
 
