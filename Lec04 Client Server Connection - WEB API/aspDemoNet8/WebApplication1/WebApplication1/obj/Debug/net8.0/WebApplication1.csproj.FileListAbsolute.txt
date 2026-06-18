@@ -147,7 +147,6 @@ C:\Users\napo5_nt\Desktop\sandbox\ENG_Server_2025-2026\Lec04 Client Server Conne
 C:\Users\napo5_nt\Desktop\sandbox\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\aspDemoNet8\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\napo5_nt\Desktop\sandbox\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\aspDemoNet8\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\napo5_nt\Desktop\sandbox\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\aspDemoNet8\WebApplication1\WebApplication1\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\napo5_nt\Desktop\sandbox\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\aspDemoNet8\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\napo5_nt\Desktop\sandbox\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\aspDemoNet8\WebApplication1\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
 C:\Users\napo5_nt\Desktop\sandbox\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\aspDemoNet8\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
 C:\Users\napo5_nt\Desktop\sandbox\ENG_Server_2025-2026\Lec04 Client Server Connection - WEB API\aspDemoNet8\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
