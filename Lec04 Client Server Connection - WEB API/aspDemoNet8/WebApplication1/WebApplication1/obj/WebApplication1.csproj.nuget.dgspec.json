@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\napo5_nt\\Desktop\\sandbox\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\napo5_nt\\Desktop\\sandbox\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\napo5_nt\\Desktop\\sandbox\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\Lab-G700\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lab-G700\\Desktop\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\napo5_nt\\Desktop\\sandbox\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\napo5_nt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\napo5_nt\\Desktop\\sandbox\\ENG_Server_2025-2026\\Lec04 Client Server Connection - WEB API\\aspDemoNet8\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lab-G700\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\napo5_nt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,11 +26,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -44,10 +44,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.Data.SqlClient": {
@@ -69,10 +71,6 @@
             "Swashbuckle.AspNetCore.SwaggerUI": {
               "target": "Package",
               "version": "[10.1.7, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.9.1, )"
             }
           },
           "imports": [
@@ -86,6 +84,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -94,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
